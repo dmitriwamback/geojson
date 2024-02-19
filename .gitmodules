@@ -1,0 +1,3 @@
+[submodule "ukraine_geojson"]
+	path = ukraine_geojson
+	url = https://github.com/EugeneBorshch/ukraine_geojson
